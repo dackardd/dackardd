@@ -2,4 +2,4 @@ Hi there, I'm Tarik! Tarik Cuhadar is a self-motivated and learning passionate p
 
 MY SKİLLS : 
 
-
+<img src="[gorsel-link](https://github.com/dackardd/dackardd/blob/main/css3-html5-javascript-logo.png)" width="auto">
